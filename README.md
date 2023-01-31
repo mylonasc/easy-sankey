@@ -1,3 +1,3 @@
 ## Some utils for Sankey diagrams in python
 
-![img](images/sankey-images.png)
+![img](images/sankey-test.png)
